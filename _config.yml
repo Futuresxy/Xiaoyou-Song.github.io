@@ -8,8 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default"
-title                    : "Xiaoyou Song / Personal Homepage"
+title                    : "Xiaoyou Song/Personal Homepage"
 title_separator          : "-"
 name                     : &name "Xiaoyou Song"
 description              : &description "personal description"
@@ -23,7 +22,7 @@ repository               : "Futuresxy/Xiaoyou-Song.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Xiaoyou Song(宋晓有)"
+  name             : "Xiaoyou Song"
   pronouns         : # example: "she/her"  
   bio              : "Work happily"
   location         : "Beijing China"
