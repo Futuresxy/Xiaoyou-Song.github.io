@@ -9,14 +9,14 @@ redirect_from:
 
 I'm a first year undergraduate student from [School of IME](https://www.ime.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/). My research interest includes computer architecture design, edge accelerator design, digital circuit design.
 
-# Education Background
+**Education Background**
  **Tsinghua University**  
 *M.Eng in Electronic Information (IC Engineering)* | Huawei Engineering Master Program  
 *2024.09-2027.07*  
 Advisor: Prof. Hu He
 
  **Wuhan University**  
-*B.Eng in Electronic Information Engineering (GPA: 3.97 /4.0)*  
+*B.Eng in Electronic Information Engineering (GPA: 3.97/4.0)*  
 *2020.09-2024.07*  
 - Top 1/147 in department  Outstanding Engineer Program Class  
 - Core Courses: VLSI Design, Embedded Systems, Digital Signal Processing, Computer Architecture  
