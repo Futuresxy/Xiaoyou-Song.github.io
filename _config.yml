@@ -26,7 +26,7 @@ author:
   name             : "Xiaoyou Song"
   pronouns         : # example: "she/her"  
   bio              : "work hard"
-  location         : "Earth"
+  location         : "Beijing"
   employer         : "Tsinghua University"
   uri              : # URL
   email            : "songxy24@mails.tsinghua.edu.cn" 
@@ -46,7 +46,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/Futuresxy"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -74,7 +74,7 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : # Username
+  zhihu            : Future icxy
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
