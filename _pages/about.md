@@ -9,7 +9,7 @@ redirect_from:
 
 I'm a first year undergraduate student from [School of IME](https://www.ime.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/). My research interest includes computer architecture design, edge accelerator design, digital circuit design.
 
- #  Education Background
+# Education Background
  **Tsinghua University**  
 *M.Eng in Electronic Information (IC Engineering)* | Huawei Engineering Master Program  
 *2024.09-2027.07*  
