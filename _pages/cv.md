@@ -11,54 +11,53 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.Eng. in Beijing, Tsinghua University (Huawei Engineering Master Program), Sep 2024 - Jul 2027  
+  * Electronic Information (IC Engineering)  
+  * Advisor: Prof. Hu He  
+  * Core Courses: VLSI Design, Computer Architecture, Embedded Systems
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* B.Eng. in Wuhan, Wuhan University, Sep 2020 - Jul 2024  
+  * Electronic Information Engineering (GPA: 3.97/4.0)  
+  * Rank: Top 1/147 | Outstanding Engineer Program  
+  * Honors: China College Self-Improvement Star, National Scholarship
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Technical Projects
+======
+* **Open-Source GPGPU DMA Development** (Chisel/RISC-V | Oct 2024-Present)  
+  ▪ Designed asynchronous data loading module for ChengYing architecture  
+  ▪ Optimized memory access using cp.dma/bulk/tensor instructions  
+  ▪ Achieved 40% latency reduction through pipeline optimization
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Edge Computing CNN Accelerator** (Verilog/FPGA | May 2024)  
+  ▪ Implemented systolic array supporting Conv/ReLU/Pooling layers  
+  ▪ Developed AXI-Stream interface achieving 5.2GB/s throughput  
+  ▪ Finalist in National IC Innovation Youth Forum 2022
 
-Publications
+Work Experience
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Summer 2025: IC Design Intern  
+  ▪ Huawei Semiconductor  
+  ▪ Tools: VCS, Verdi, Design Compiler
+
+* Spring 2023: Research Assistant  
+  ▪ Jihai Semiconductor  
+  ▪ Developed testing for ARM core verification  
+
+Technical Skills
+======
+* **Hardware Design**:  
+  ▪ RTL Design (Verilog/SystemVerilog)  
+  ▪ FPGA Implementation (Vivado/Quartus)  
+  ▪ ASIC Flow (Synopsys/Cadence Tools)
   
-Talks
+* **Programming**:  
+  ▪ HDLs: Chisel, Verilog, VHDL  
+  ▪ Scripting: Python, TCL, Makefile  
+  ▪ Embedded C/C++
+
+Honors & Awards
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* National 2nd Prize - China Undergraduate Electronic Design Competition (2023)  
+* Lei Jun Scholarship - Top 0.5% recipients nationwide (2022)  
+* Luojia Role Model Award - Top 10 university-wide honor (2021)
+
