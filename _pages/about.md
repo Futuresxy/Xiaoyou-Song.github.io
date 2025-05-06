@@ -9,7 +9,7 @@ redirect_from:
 
 I'm a first year undergraduate student from [School of IME](https://www.ime.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/). My research interest includes computer architecture design, edge accelerator design, digital circuit design.
 
- #🎓 Education Background#
+ # 🎓 Education Background#
  **Tsinghua University**  
 *M.Eng in Electronic Information (IC Engineering)* | Huawei Engineering Master Program  
 *2024.09-2027.07*  
@@ -22,13 +22,13 @@ Advisor: Prof. Hu He
 - Core Courses: VLSI Design, Embedded Systems, Digital Signal Processing, Computer Architecture  
 - CET-4: 594 | CET-6: 529
 
- #🏆 Notable Honors#
+# 🏆 Notable Honors
 - China College Self-Improvement Star (Undergraduate recipient from Wuhan University)  
 - **National Scholarship** & Lei Jun Scholarship  
 - Outstanding Graduate Student Representative @ Tsinghua Summer Leadership Program  
 - 7th Luojia Role Model Award (Top 10 university-wide)
 
-# 💻 Technical Projects#
+# 💻 Technical Projects
  **Open-Source GPGPU DMA Module Development**  
 *(Chisel/RISC-V | 2024.10-Present)*  
 - Designed asynchronous data loading module for ChengYing GPGPU architecture  
@@ -47,12 +47,12 @@ Advisor: Prof. Hu He
 - Integrated image processing IP core and audio generation modules  
 - Presented at 1st National IC Innovation Youth Forum
 
- #🏅 Competition Achievements#
+# 🏅 Competition Achievements#
 - **National 2nd Prize**: China Undergraduate Electronic Design Competition (2023)  
 - **National 3rd Prize**: Embedded Chip & System Design Competition - FPGA Track (2022)  
 - **National 3rd Prize**: China IC Innovation & Entrepreneurship Competition (2022)
 
- #🔧 Technical Skills#
+# 🔧 Technical Skills#
 **Hardware**: FPGA Development (Vivado/Quartus) | ASIC Design Flow | SoC Integration  
 **Languages**: Chisel | Verilog | SystemVerilog | C/C++  
 **Tools**: MATLAB | Cadence | Synopsys EDA | Git  
