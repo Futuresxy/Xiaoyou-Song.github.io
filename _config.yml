@@ -8,7 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Xiaoyou Song/Personal Homepage"
+site_theme               : "default"
+title                    : "Xiaoyou Song / Site Title"
 title_separator          : "-"
 name                     : &name "Xiaoyou Song"
 description              : &description "personal description"
@@ -24,9 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "Xiaoyou Song"
   pronouns         : # example: "she/her"  
-  bio              : "Work happily"
-  location         : "Beijing China"
-  employer         : "Tainghua University"
+  bio              : "work study happily"
+  location         : "Earth"
+  employer         : "Tsinghua University"
   uri              : # URL
   email            : "songxy24@mails.tsinghua.edu.cn" 
 
@@ -45,7 +46,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/Futuresxy"
+  github           : "academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
