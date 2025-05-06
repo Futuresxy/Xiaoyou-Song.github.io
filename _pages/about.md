@@ -18,7 +18,7 @@ Advisor: Prof. Hu He
  **Wuhan University**  
 *B.Eng in Electronic Information Engineering (GPA: 3.97/4.0)*  
 *2020.09-2024.07*  
-- Top 1/147 in department | Outstanding Engineer Program Class  
+- Top 1/147 in department  Outstanding Engineer Program Class  
 - Core Courses: VLSI Design, Embedded Systems, Digital Signal Processing, Computer Architecture  
 
 # Notable Honors
